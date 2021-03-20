@@ -1,2 +1,2 @@
-sudo python gen_next_bd_addr.py hci1
+sudo python gen_next_bd_addr.py hci0
 
